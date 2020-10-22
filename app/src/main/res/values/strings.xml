@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Nama musisi</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Kurt Cobain</item>
+        <item>Rod Stewart</item>
+        <item>Freddie Mercury</item>
+        <item>Eric Clapton</item>
+        <item>John lennon</item>
+        <item>Steven Tyler</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kurt Donald Cobain (lahir di Aberdeen, 20 Februari 1967 – meninggal di Seattle, 5 April 1994 pada umur 27 tahun) adalah penyanyi, penulis lagu dan gitaris dalam band grunge dari Seattle, Nirvana.Ia dikenal sebagai salah satu personil Band Nirvana dan juga salah satu musisi terkenal yang pernah ada.</item>
+        <item>Roderick David ”Rod” Stewart lahir pada 10 Januari 1945 di London utara. Ia sebagai anak bungsu dari lima bersaudara dari pasangan Robert Stewart dan Elsie Gilbart. Ayahnya adalah seorang Skotlandia, sedangkan ibunya adalah seorang Inggris yang tumbuh di London</item>
+        <item>Frederick "Freddie" Mercury (lahir Farrokh Bulsara; 5 September 1946 – 24 November 1991) adalah seorang penyanyi-penulis lagu dan produser rekaman dan vokalis utama dari band rock Queen berkebangsaan Inggris. ... Dia membentuk Queen pada tahun 1970 bersama gitaris Brian May dan drummer Roger Taylor.</item>
+        <item>Terlahir dengan nama Eric Patrick Clapton tanggal 30 maret 1945,putra pasangan Patricia Molly Clapton dan Edward Walter Fryer. Ayahnya seorang tentara kanada yang ditugaskan di inggris,setelah perang dunia ke 2 selesai ayahnya kembali ke kanada dan meninggalkan ibunya yang sedang hamil dimana waktu itu usianya baru 16th.</item>
+        <item>John Winston Lennon (lahir di Liverpool, Inggris, 9 Oktober 1940 – meninggal di New York City, Amerika Serikat, 8 Desember 1980 pada umur 40 tahun) paling dikenal sebagai penyanyi, pencipta lagu, instrumentalis, penulis, dan aktivis politik yang terkenal di seluruh dunia sebagai pemimpin dari The Beatles. Lennon dan Paul McCartney membentuk partnership pencipta lagu yang paling sukses dan berhasil hingga saat ini. Lennon dengan sinismenya dan McCartney dengan optimismenya melengkapi satu sama lain dengan sangat baik. Setelah bubarnya The Beatles pada tahun 1970, ia juga sukses dengan karier solonya. Salah satu hitsnya yang hingga kini masih sangat terkenal adalah Imagine, lagu yang kemudian menjadi salah satu himne perdamaian dunia</item>
+        <item>Steven Tyler merupakan vokalis band Rock Aerosmith asal Amerika Serikat. Steven Tyler adalah anak ke-2 dari Tyler memulai karier di Aerosmith sejak tahun 1970. Dahulu, pada tahun 1970-an, Tyler adalah seorang pecandu alkohol dan minuman keras lainnya. Pada pertengahan 1970an, Steven Tyler menikah dengan Bebe Buell dan pada tahun 1977, Liv Tyler, anak Steven Tyler lahir. Yang unik dari Steven Tyler adalah dia suka berteriak-teriak pada saat menyanyi. Steven Tyler pada tahun 1981 masuk ke rehabilitasi pengguna alkohol dan setelah itu tidak pernah mengonsumsi alkohol lagi sampai sekarang</item>
+
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/kurt_cobain</item>
+        <item>@drawable/rod_stewart</item>
+        <item>@drawable/freddie_mercury</item>
+        <item>@drawable/eric_clapton</item>
+        <item>@drawable/john_lennon</item>
+        <item>@drawable/steven_tyler</item>
+
+    </array>
+</resources>
